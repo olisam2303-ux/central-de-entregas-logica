@@ -130,8 +130,8 @@ const CENTRAL = {
       n: 4, titulo: "4º bimestre", semanas: "semana 21 em diante",
       prova: "", provaPaulista: "",
       itens: [
-        { s: 21, tema: "Programa com menu no terminal", tarefaSP: true,
-          registros: [["Programando com menu no terminal", "logica-21-s21-papelaria.html"]],
+        { s: 21, tema: "Programando com menu no terminal", tarefaSP: true,
+          registros: [["Papelaria Ponto Certo: menu, funções e listas", "logica-21-s21-papelaria.html"]],
           aula: "2026-10-06" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
