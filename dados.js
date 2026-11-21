@@ -144,7 +144,10 @@ const CENTRAL = {
           aula: "2026-10-27" },
         { s: 25, tema: "Do menu ao sistema completo", tarefaSP: true,
           registros: [["Papelaria Ponto Certo: do menu ao sistema completo", "logica-25-s25-sistema-completo.html"]],
-          aula: "2026-11-03" }
+          aula: "2026-11-03" },
+        { s: 26, tema: "Organizar e apresentar o projeto", tarefaSP: true,
+          registros: [["Papelaria Ponto Certo: organizando e apresentando o projeto", "logica-26-s26-organizando-o-projeto.html"]],
+          aula: "2026-11-10" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
       ]
