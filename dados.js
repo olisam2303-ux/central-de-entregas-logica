@@ -138,7 +138,10 @@ const CENTRAL = {
           aula: "2026-10-13" },
         { s: 23, tema: "Médias, faixas e classificação", tarefaSP: true,
           registros: [["Papelaria Ponto Certo: médias, faixas e classificação", "logica-23-s23-medias-classificacao.html"]],
-          aula: "2026-10-20" }
+          aula: "2026-10-20" },
+        { s: 24, tema: "Quiz e desafios no terminal", tarefaSP: true,
+          registros: [["Quiz da Feira de Ciências: perguntas, tentativas e pontuação", "logica-24-s24-quiz-terminal.html"]],
+          aula: "2026-10-27" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
       ]
